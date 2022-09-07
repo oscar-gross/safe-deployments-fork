@@ -1,8 +1,8 @@
 {
-  "name": "@gnosis.pm/safe-deployments",
+  "name": "safe-deployments-fork",
   "version": "1.16.0",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/gnosis/safe-deployments/",
+  "homepage": "https://github.com/oscar-gross/safe-deployments-fork/",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

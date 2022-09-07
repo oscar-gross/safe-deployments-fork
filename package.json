@@ -1,6 +1,6 @@
 {
   "name": "safe-deployments-fork",
-  "version": "1.16.0",
+  "version": "1.0.0",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/oscar-gross/safe-deployments-fork/",
   "license": "MIT",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnosis/safe-deployments.git"
+    "url": "git+https://github.com/oscar-gross/safe-deployments-fork"
   },
   "keywords": [
     "Ethereum",
